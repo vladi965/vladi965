@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vladimir
 - 👀 I’m interested in programming 🖥
-- 🌱 I’m currently learning React Native, Flutter, PWA, NodeJS , NEXT 
+- 🌱 I’m currently learning React Native, Flutter, PWA, NodeJS
 - 👨‍🎓 I’m a Systems Engineering Graduate 
 
 
