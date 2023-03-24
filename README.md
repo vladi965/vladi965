@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Vladimir<br>👀 I’m interested in programming 🖥<br>🌱 I’m currently learning React Native, Flutter, PWA, NodeJS<br>👨‍🎓 I’m a Systems Engineering Graduate
 
+https://api.daily.dev/devcards/dc807eed4f6742de9310c951712c2176.png?r=hf3
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vladimir-sanchez-astoray/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/vladi2596) 
